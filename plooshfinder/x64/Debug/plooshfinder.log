@@ -1,0 +1,10 @@
+﻿  elf.c
+  macho.c
+  multi.c
+  pe.c
+  plooshfinder.c
+  plooshfinder8.c
+  plooshfinder_sig.c
+  utils.c
+  Generating Code...
+  plooshfinder.vcxproj -> C:\Users\Administrator\Desktop\Starfall - 33.30\x64\Debug\plooshfinder.lib

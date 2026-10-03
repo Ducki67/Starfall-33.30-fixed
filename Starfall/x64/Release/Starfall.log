@@ -1,0 +1,17 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (Starfall.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  pch.cpp
+  base.cpp
+  dllmain.cpp
+  exit.cpp
+  hooking.cpp
+  redirection.cpp
+  request.cpp
+  ue.cpp
+  url.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 77 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Starfall.vcxproj -> C:\Users\sando\Downloads\Starfall-33.30-main\Starfall-33.30-main\x64\Release\Starfall 33.30.dll
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
